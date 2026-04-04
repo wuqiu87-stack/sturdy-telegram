@@ -1,0 +1,51 @@
+.vs/
+*.user
+*.suo
+*.userosscache
+*.VC.db
+*.VC.opendb
+bin/
+obj/
+x64/
+Debug*/
+Release*/
+*.exe
+*.dll
+*.pdb
+*.obj
+*.log
+# Visual Studio temporary files
+.vscode/
+*.code-workspace
+# Build results
+build/
+
+# Ignore NuGet packages
+*.nupkg
+packages/
+
+# Ignore user-specific files
+*.priv
+
+# Ignore compiled libraries
+*.lib
+
+# Ignore generated folders
+ipch/
+*.ipch
+
+# Ignore Visual Studio cache
+*.ide
+
+# Ignore coverage files
+coverage/
+
+# Ignore other common files
+Thumbs.db
+.DS_Store
+
+# Keep README and source files tracked
+!a1.cpp
+!Project1.slnx
+!Project1.vcxproj
+!Project1.vcxproj.filters
